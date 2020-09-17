@@ -2,9 +2,9 @@
 layout: frontpage
 title: Home
 banner-title: Welcome to Project Pythia!
-banner-description: Project Pythia is a community resource for researchers and students working in the geosciences who wish to learn how to analyze their data using the vast and ever-growing Scientific Python Ecosystem.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-description: Project Pythia is a community resource for learning how to analyze geosciences data using the Scientific Python Ecosystem.
+#banner-button-text: Download
+#banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 ---
 
 # About
@@ -28,3 +28,6 @@ resource that will help educate current, and aspiring, earth
 scientists to more effectively use both the Scientific Python
 Ecosystem and Cloud Computing to make sense of huge volumes of
 numerical scientific data.
+
+Project Pythia is a community effort led by NCAR and the University
+of Albany, and funded by NSF EarthCube award #2026899
