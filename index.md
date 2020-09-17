@@ -3,8 +3,8 @@ layout: frontpage
 title: Home
 banner-title: Welcome to Project Pythia!
 banner-description: Project Pythia is a community resource for learning how to analyze geosciences data using the Scientific Python Ecosystem.
-#banner-button-text: Download
-#banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-button-text: Get started
+banner-button-url: https://github.com/NCAR/ProjectPythia
 ---
 
 # About
