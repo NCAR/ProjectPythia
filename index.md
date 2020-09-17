@@ -1,14 +1,30 @@
 ---
 layout: frontpage
 title: Home
-banner-title: Example Github site
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
+banner-title: Welcome to Project Pythia!
+banner-description: Project Pythia is a community resource for researchers and students working in the geosciences who wish to learn how to analyze their data using the vast and ever-growing Scientific Python Ecosystem.
 banner-button-text: Download
 banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
 ---
 
-# Documentation
+# About
 
-Project Pythia
-NCAR/UCAR users interested in using this template with their Github pages website will need to first clone down this repository and copy over code either into their project's existing /docs directory or a new repository. You should then change the _config.yml, index.md, README.md and markdown pages within the /pages directory.
-
+Scientists working in a multitude of disciplines rely heavily on 
+computing technologies for their research. Numerical simulations
+run on supercomputers are used in the study of climate, weather,
+atmospheric chemistry, wildfires, space weather, and more. Similarly, 
+a tremendous volume of digital data produced by numerical simulations,
+or observations made with instruments, are analyzed with the help
+of powerful computers and software. Thus, today’s scientists require
+not only expertise in their scientific discipline, but also require
+high-level technical skills to effectively analyze, manipulate, and
+make sense of potentially vast volumes of data. Computing environments
+change rapidly, and two technologies that have emerged and are being
+adopted by scientific communities relatively recently are Cloud
+Computing platforms and a software ecosystem of scientific tools
+built around the open source programming language called Python.
+Project Pythia will provide a public, web-accessible training
+resource that will help educate current, and aspiring, earth
+scientists to more effectively use both the Scientific Python
+Ecosystem and Cloud Computing to make sense of huge volumes of
+numerical scientific data.
