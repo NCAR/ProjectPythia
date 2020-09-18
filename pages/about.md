@@ -30,29 +30,29 @@ geoscientists with all levels of Python experience from 0 to 100:
 introductory resources for those just getting started with Python,
 through advanced. 
 
-####Introductory topics:
+#### Introductory topics:
 + Setting up your Python environment with Conda
 + Beginning Python programming
 + NumPy
 + Jupyter Notebooks
 
-####Geoscience focused packages:
+#### Geoscience focused packages:
 + Xarray
 + MetPy
 + GeoCAT
 
-####Scalable workflows
+#### Scalable workflows
 + Parallel computing with Dask
 + Migrating workflows to the Cloud
 
-###Training material
+### Training material
 Project Pythia will offer a full gamut of training materials:
 + Example Jupyter Notebooks & scripts
 + Sample data
 + Tutorials (interactive and pre-recorded)
 + Communication forums
 
-###Open development
+### Open development
 Project Pythia is an Open Development effort. We encourage to community 
 to contribute to all aspects of the project. See our [contributor's guide](/ProjectPythia/pages/contribute.html)
 for more information on how you can get involved. 
