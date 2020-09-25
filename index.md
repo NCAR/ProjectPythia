@@ -7,7 +7,7 @@ banner-button-text: Get started
 banner-button-url: https://github.com/NCAR/ProjectPythia
 ---
 
-# About
+# A community educational resource for geoscientists
 
 Scientists working in a multitude of disciplines rely heavily on 
 computing technologies for their research. Numerical simulations
@@ -32,6 +32,5 @@ numerical scientific data.
 Project Pythia is a community effort led by NCAR and the University
 of Albany, and funded by NSF EarthCube award #2026899
 
-![NCAR](/ProjectPythia/images/NCARLogo.png){:height="75px" width="200px"}
+![Partners](/ProjectPythia/images/PartnersLogo.png)
 
-![Albany](/ProjectPythia/images/AlbanyLogo.png){:height="75px" width="615px"}
