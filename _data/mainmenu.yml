@@ -3,5 +3,7 @@ menu:
     url: /ProjectPythia/pages/about.html
   - title: Learn
     url: /ProjectPythia/pages/learn.html
+  - title: People
+    url: /ProjectPythia/pages/people.html
   - title: Contribute
     url: /ProjectPythia/pages/contribute.html
